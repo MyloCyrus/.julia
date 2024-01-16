@@ -6,9 +6,6 @@
         <pre><code class="language-plaintext bash-block">curl -fsSL https://install.julialang.org | sh</code><button class="copy-button">Copy</button></pre>
         <div class="install-platform-note"><span id="platform-subnote-other" style="display: none;">
 
-<p>Once installed <code>julia</code> will be available via the command line interface.</p>
-<p>This will install the <a href="https://github.com/JuliaLang/juliaup">Juliaup</a> installation manager, which will automatically install julia and help keep it up to date. The command <code>juliaup</code> is also installed. To install different julia versions see <code>juliaup --help</code>.</p>
-<hr>
 
 If possible, do consider <a href="https://github.com/sponsors/MyloCyrus">sponsoring</a> us.</p>
 
