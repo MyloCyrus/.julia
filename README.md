@@ -10,6 +10,6 @@
 <p>Once installed <code>julia</code> will be available via the command line interface.</p>
 <p>This will install the <a href="https://github.com/JuliaLang/juliaup">Juliaup</a> installation manager, which will automatically install julia and help keep it up to date. The command <code>juliaup</code> is also installed. To install different julia versions see <code>juliaup --help</code>.</p>
 <hr>
-<p>Please star us <a href="https://github.com/JuliaLang/julia">on GitHub</a>. If you use Julia in your research, please <a href="https://julialang.org/research/">cite us</a>. If possible, do consider <a href="https://github.com/sponsors/MyloCyrus">sponsoring</a> us.</p>
+If possible, do consider <a href="https://github.com/sponsors/MyloCyrus">sponsoring</a> us.</p>
 
 
